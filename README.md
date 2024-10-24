@@ -1,1 +1,1 @@
-# Blazor - WPF Hybrid app
+# Blazor - WPF Hybrid Demo app
